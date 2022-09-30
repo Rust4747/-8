@@ -15,7 +15,7 @@ public class Main {
         for (int i = 0; i < weihts.length; i++) ;
 
 
-        int[] wei = new int[]{1, 2, 3};
+        int[] wei = new int[] {1, 2, 3};
         System.out.print(wei[0] + "," + wei[1] + "," + wei[2]);
         System.out.println();
         System.out.print(wei[2] + "," + wei[1] + "," + wei[0]);
